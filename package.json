@@ -1,0 +1,15 @@
+{
+  "name": "mymodule",
+  "version": "1.0.0",
+  "description": "simple way to connect mysql and perform complex query in simple ways",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "mysql",
+    "node"
+  ],
+  "author": "aswinkumar (sam tech)",
+  "license": "ISC"
+}
